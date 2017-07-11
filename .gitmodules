@@ -1,0 +1,6 @@
+[submodule "design_patterns"]
+	path = design_patterns
+	url = https://github.com/AndGasper/design_patterns.git
+[submodule "php_practice"]
+	path = php_practice
+	url = https://github.com/AndGasper/php_practice.git
